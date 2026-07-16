@@ -1,0 +1,8 @@
+node_modules
+.git
+.expo
+*.jks
+*.keystore
+*.bak
+.vscode
+.claude
